@@ -1,0 +1,28 @@
+Step 1 -- elapsed time 0.00120902 s
+Step 1 -- number of constraints: 98
+Step 1 -- number of active variables: 49
+Step 1 -- introduced 54 constraints
+Step 2 -- elapsed time 0.00260186 s
+Step 2 -- number of constraints: 152
+Step 2 -- number of active variables: 74
+Step 2 -- introduced 8 constraints
+Step 3 -- elapsed time 0.00508904 s
+Step 3 -- number of constraints: 160
+Step 3 -- number of active variables: 75
+Step 3 -- introduced 84 constraints
+Step 4 -- elapsed time 0.008389 s
+Step 4 -- number of constraints: 244
+Step 4 -- number of active variables: 75
+Step 4 -- introduced 76 constraints
+Step 5 -- elapsed time 0.0144789 s
+Step 5 -- number of constraints: 320
+Step 5 -- number of active variables: 75
+Step 5 -- introduced 96 constraints
+Step 6 -- elapsed time 0.0214689 s
+Step 6 -- number of constraints: 416
+Step 6 -- number of active variables: 75
+Step 6 -- introduced 2 constraints
+Step 7 -- elapsed time 0.0284278 s
+Step 7 -- number of constraints: 418
+Step 7 -- number of active variables: 75
+Elapsed time: 0.035054

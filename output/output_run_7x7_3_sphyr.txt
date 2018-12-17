@@ -1,0 +1,27 @@
+Step 1 -- elapsed time 0.00102282 s
+Step 1 -- number of constraints: 48
+Step 1 -- number of active variables: 24
+Step 1 -- introduced 28 constraints
+Step 2 -- elapsed time 0.00204182 s
+Step 2 -- number of constraints: 76
+Step 2 -- number of active variables: 32
+Step 2 -- introduced 2 constraints
+Step 3 -- elapsed time 0.00397587 s
+Step 3 -- number of constraints: 78
+Step 3 -- number of active variables: 32
+Step 3 -- introduced 2 constraints
+Step 4 -- elapsed time 0.00548196 s
+Step 4 -- number of constraints: 80
+Step 4 -- number of active variables: 32
+Step 4 -- introduced 0 constraints
+CPLEX: [5000 , 5000]
+Elapsed time: 0.00747085
+7 #taxa
+7 #characters
+0 1 0 0 0 1 0
+0 1 0 0 0 1 1
+1 2 0 0 1 1 2
+1 2 0 0 1 1 2
+2 1 0 0 2 2 1
+1 1 1 1 1 1 1
+1 1 0 0 1 2 1
